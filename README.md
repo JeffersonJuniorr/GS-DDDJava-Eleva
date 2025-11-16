@@ -79,8 +79,8 @@ O projeto segue rigorosamente uma arquitetura em camadas para separação de res
 
 1.  **Clonar o repositório:**
     ```bash
-    git clone https://github.com/JeffersonJuniorr/GS-Eleva
-    cd GS-Eleva
+    git clone https://github.com/JeffersonJuniorr/GS-DDDJava-Eleva
+    cd GS-DDDJava-Eleva
     ```
 
 2.  **Compilar e instalar dependências:**
